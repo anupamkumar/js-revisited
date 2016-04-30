@@ -1,7 +1,7 @@
 # js-revisited
 Relearning JS from scratch from Javascript: Definitive Guide 5th Edition
 
-All code snippets run on node command-line.
+All code snippets run on node command-line. Node version is not important, as long as ECMAScript 5 is implemented (which is all versions of Node)
 ```
 node <JSfileName>
 ```
