@@ -1,7 +1,7 @@
 # js-revisited
 Relearning JS from scratch from Javascript: Definitive Guide 5th Edition
 
-### All code snippets run on node command-line.
+All code snippets run on node command-line.
 ```
 node <JSfileName>
 ```
