@@ -6,7 +6,7 @@ Relearning JS from scratch from Javascript: Definitive Guide 5th Edition
 node <JSfileName>
 ```
 
-###Some of the later code snippets require [chalkJS library](https://davidwalsh.name/chalk). Download it using ```npm``` command like this
+*Some of the later code snippets require [chalkJS library](https://davidwalsh.name/chalk). Download it using ```npm``` command like this*
 
 ```
 npm install --save chalk
